@@ -10,10 +10,10 @@ using BOL;
 
 namespace DAL
 {
-	//Connected Data Access
+	
 	//Connection is kept open till operation get completed.
 	//Explicitly connectin object has been managed with opening and closing by code
-
+   //new comment
 	//comd.ExecuteScalar :::::::::::::for Aggrdate functions with SELECT
 	//comd.ExecuteNonQuery:::::::::::::for DML  (insert, update or delete command)
 	//comd.ExecuteReader::::::::::::::::for SQL (Select command)
