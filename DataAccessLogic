@@ -10,7 +10,7 @@ using BOL;
 
 namespace DAL
 {
-	
+	//new changes
 	//Connection is kept open till operation get completed.
 	//Explicitly connectin object has been managed with opening and closing by code
    //new comment
